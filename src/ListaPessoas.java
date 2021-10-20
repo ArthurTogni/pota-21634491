@@ -8,9 +8,19 @@ import java.util.regex.Pattern;
 import java.util.stream.Stream;
 
 public class ListaPessoas {
+	
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		
+		/*-------------------------------------------------------------------------------------------------------------------------*/
+		/*
+		André Santos Benedicto - 21446132
+		Arthur Togni Silva - 21634491
+		Guilherme Aragão Spósito - 21464152
+		*/
+		/*-------------------------------------------------------------------------------------------------------------------------*/
 
 		Scanner sc1 = new Scanner(System.in);
 
